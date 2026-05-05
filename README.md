@@ -3,7 +3,6 @@
 This repository contains a **Spring Boot REST application** developed with hands‑on implementation of **core and advanced Spring Boot concepts**.  
 The project focuses on **clean architecture, security, validation, exception handling, and production readiness**.
 
----
 
 ## Technologies Used
 
